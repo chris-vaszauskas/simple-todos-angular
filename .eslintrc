@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "meteor": true,
+  },
+  "globals": {
+    "angular": true,
+  },
+  "rules": {
+    "no-trailing-spaces": 0,
+    "func-names": 0,
+    "space-before-function-paren": 0,
+  }
+}
